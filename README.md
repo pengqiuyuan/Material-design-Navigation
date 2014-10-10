@@ -1,6 +1,6 @@
 
 ## Material-design-Navigation
---Demo http://182.92.69.21/m1/Material-design-Navigation/index.html
+--Demo http://182.92.69.21/m1/mdn/index.html
 
 ![img](http://182.92.69.21/images/1.png)
 ![img](http://182.92.69.21/images/2.png)
